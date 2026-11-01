@@ -78,7 +78,7 @@ compute. Its figures and tables show the same qualitative behaviour but are not 
 
 Re-drawing from the cached results reproduces the paper's figures and tables, but results may 
 change slightly between CPU and the library versions. 
-## What the experiments do
+## Experiment descriptions
 
 All hyperparameters are in `CONFIGS["paper"]` at the top of each script, and each script's docstring
 describes its protocol. Appendix I of the paper (Table 3) summarizes them.
